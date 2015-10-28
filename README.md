@@ -5,7 +5,7 @@ Visual Studio Online の運用手順、利用方法等をドキュメント化�
 
 ## Visual Studio Online で何ができるか
 
-SVO(Visual Studio Online)では、複数の非公開プロジェクトを作成できる。
+VSO(Visual Studio Online)では、複数の非公開プロジェクトを作成できる。
 無料では、5ユーザまで参加できる。
 
 プロジェクトでは主に次の3点がサービスされている。
